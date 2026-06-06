@@ -94,7 +94,7 @@ npm run build
 npm install -g vercel
 vercel
 ```
-Or drag-and-drop the `/dist` folder to [vercel.com/new](https://vercel.com/new).
+Or drag-and-drop the `/dist` folder to [vercel.com/new]([https://vercel.com/new](https://algo-viz-orcin.vercel.app/)).
 
 ---
 
